@@ -1,0 +1,18 @@
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\Homework 1.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\Homework 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\Homework 1.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\Homework 1.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\Homework 1.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\bin\Debug\net6.0\Homework 1.exe
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\bin\Debug\net6.0\Homework 1.deps.json
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\bin\Debug\net6.0\Homework 1.runtimeconfig.json
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\bin\Debug\net6.0\Homework 1.dll
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\bin\Debug\net6.0\Homework 1.pdb
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\bin\Debug\net6.0\Service.dll
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\bin\Debug\net6.0\Service.pdb
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\Homework 1.csproj.Up2Date
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\Homework 1.dll
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\refint\Homework 1.dll
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\Homework 1.pdb
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\Homework 1.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\C # ADVANCED HOMEWORKS\Homework 1\Homework 1\obj\Debug\net6.0\ref\Homework 1.dll
