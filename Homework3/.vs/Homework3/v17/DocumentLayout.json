@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefan\\Desktop\\C-ADVANCED-HOMEWORKS\\Homework3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D5C748-770A-4341-A9ED-4B77DE873DF3}|Homework3\\Homework3.csproj|c:\\users\\stefan\\desktop\\c-advanced-homeworks\\homework3\\homework3\\printinconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D5C748-770A-4341-A9ED-4B77DE873DF3}|Homework3\\Homework3.csproj|solutionrelative:homework3\\printinconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D5C748-770A-4341-A9ED-4B77DE873DF3}|Homework3\\Homework3.csproj|c:\\users\\stefan\\desktop\\c-advanced-homeworks\\homework3\\homework3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D5C748-770A-4341-A9ED-4B77DE873DF3}|Homework3\\Homework3.csproj|solutionrelative:homework3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintInConsole.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\C-ADVANCED-HOMEWORKS\\Homework3\\Homework3\\PrintInConsole.cs",
+              "RelativeDocumentMoniker": "Homework3\\PrintInConsole.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\C-ADVANCED-HOMEWORKS\\Homework3\\Homework3\\PrintInConsole.cs",
+              "RelativeToolTip": "Homework3\\PrintInConsole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:19:49.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\C-ADVANCED-HOMEWORKS\\Homework3\\Homework3\\Program.cs",
+              "RelativeDocumentMoniker": "Homework3\\Program.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\C-ADVANCED-HOMEWORKS\\Homework3\\Homework3\\Program.cs",
+              "RelativeToolTip": "Homework3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:18:37.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
