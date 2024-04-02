@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\bin\Debug\net6.0\Models.deps.json
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\bin\Debug\net6.0\Models.dll
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\obj\Debug\net6.0\Models.sourcelink.json
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\obj\Debug\net6.0\Models.dll
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\obj\Debug\net6.0\Models.pdb
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework2\Task2\Models\obj\Debug\net6.0\ref\Models.dll
