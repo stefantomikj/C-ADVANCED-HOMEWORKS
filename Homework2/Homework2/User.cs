@@ -18,5 +18,6 @@ namespace Homework2
             Name = name; 
             Age = age;
         }
+       
     }
 }
