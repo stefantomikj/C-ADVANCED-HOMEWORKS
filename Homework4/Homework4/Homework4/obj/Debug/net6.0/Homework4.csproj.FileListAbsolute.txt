@@ -1,0 +1,15 @@
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\bin\Debug\net6.0\Homework4.exe
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\bin\Debug\net6.0\Homework4.deps.json
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\bin\Debug\net6.0\Homework4.runtimeconfig.json
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\bin\Debug\net6.0\Homework4.dll
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\bin\Debug\net6.0\Homework4.pdb
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\obj\Debug\net6.0\Homework4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\obj\Debug\net6.0\Homework4.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\obj\Debug\net6.0\Homework4.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\obj\Debug\net6.0\Homework4.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\obj\Debug\net6.0\Homework4.sourcelink.json
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\obj\Debug\net6.0\Homework4.dll
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\obj\Debug\net6.0\refint\Homework4.dll
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\obj\Debug\net6.0\Homework4.pdb
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\obj\Debug\net6.0\Homework4.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\C-ADVANCED-HOMEWORKS\Homework4\Homework4\Homework4\obj\Debug\net6.0\ref\Homework4.dll
