@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\services\\implementations\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|solutionrelative:services\\implementations\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\services\\interfaces\\iuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|solutionrelative:services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\services\\implementations\\drivercarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|solutionrelative:services\\implementations\\drivercarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\services\\interfaces\\idrivercarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\idrivercarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\services\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5E729A-39ED-403F-B9F4-848D4DA7176A}|Services\\Services.csproj|solutionrelative:services\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A44168-720A-4E96-A315-F4E4F7C5DD0A}|TaxiManagerApp\\TaxiManagerApp.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\taximanagerapp\\data\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2A44168-720A-4E96-A315-F4E4F7C5DD0A}|TaxiManagerApp\\TaxiManagerApp.csproj|solutionrelative:taximanagerapp\\data\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B59AE56-9086-48DB-B08B-8F5F11DCA237}|Models\\Models.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B59AE56-9086-48DB-B08B-8F5F11DCA237}|Models\\Models.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B59AE56-9086-48DB-B08B-8F5F11DCA237}|Models\\Models.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B59AE56-9086-48DB-B08B-8F5F11DCA237}|Models\\Models.csproj|solutionrelative:models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B59AE56-9086-48DB-B08B-8F5F11DCA237}|Models\\Models.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B59AE56-9086-48DB-B08B-8F5F11DCA237}|Models\\Models.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B59AE56-9086-48DB-B08B-8F5F11DCA237}|Models\\Models.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B59AE56-9086-48DB-B08B-8F5F11DCA237}|Models\\Models.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534A1D4C-BFB3-4C8B-B3E6-A2C6DFED0C0A}|DataAccess\\DataAccess.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\dataaccess\\storageset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534A1D4C-BFB3-4C8B-B3E6-A2C6DFED0C0A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\storageset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534A1D4C-BFB3-4C8B-B3E6-A2C6DFED0C0A}|DataAccess\\DataAccess.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\dataaccess\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534A1D4C-BFB3-4C8B-B3E6-A2C6DFED0C0A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534A1D4C-BFB3-4C8B-B3E6-A2C6DFED0C0A}|DataAccess\\DataAccess.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\dataaccess\\istorageset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534A1D4C-BFB3-4C8B-B3E6-A2C6DFED0C0A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\istorageset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534A1D4C-BFB3-4C8B-B3E6-A2C6DFED0C0A}|DataAccess\\DataAccess.csproj|c:\\users\\stefan\\desktop\\mkwd12-net-06-csharpadv\\g3\\workshop 3\\taximanagerapp\\dataaccess\\currentsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534A1D4C-BFB3-4C8B-B3E6-A2C6DFED0C0A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\currentsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "Services\\Implementations\\UserService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:02:25.347Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:02:40.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUIService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Interfaces\\IUIService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUIService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Interfaces\\IUIService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUIService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:00:41.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Implementations\\UIService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\UIService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Implementations\\UIService.cs",
+              "RelativeToolTip": "Services\\Implementations\\UIService.cs",
+              "ViewState": "AQIAAEUBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:00:26.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverCarService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Implementations\\DriverCarService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\DriverCarService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Implementations\\DriverCarService.cs",
+              "RelativeToolTip": "Services\\Implementations\\DriverCarService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:58:26.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDriverCarService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Interfaces\\IDriverCarService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IDriverCarService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Interfaces\\IDriverCarService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IDriverCarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:58:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:57:58.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Implementations\\CarService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CarService.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Implementations\\CarService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CarService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:57:24.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cars.json",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\TaxiManagerApp\\Data\\Cars.json",
+              "RelativeDocumentMoniker": "TaxiManagerApp\\Data\\Cars.json",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\TaxiManagerApp\\Data\\Cars.json",
+              "RelativeToolTip": "TaxiManagerApp\\Data\\Cars.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T14:57:00.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:56:47.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Models\\Driver.cs",
+              "RelativeToolTip": "Models\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:56:42.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:56:36.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:56:32.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StorageSet.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\DataAccess\\StorageSet.cs",
+              "RelativeDocumentMoniker": "DataAccess\\StorageSet.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\DataAccess\\StorageSet.cs",
+              "RelativeToolTip": "DataAccess\\StorageSet.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:55:59.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\DataAccess\\Storage.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Storage.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\DataAccess\\Storage.cs",
+              "RelativeToolTip": "DataAccess\\Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:55:50.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStorageSet.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\DataAccess\\IStorageSet.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IStorageSet.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\DataAccess\\IStorageSet.cs",
+              "RelativeToolTip": "DataAccess\\IStorageSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:55:42.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CurrentSession.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\DataAccess\\CurrentSession.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CurrentSession.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\DataAccess\\CurrentSession.cs",
+              "RelativeToolTip": "DataAccess\\CurrentSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:55:35.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

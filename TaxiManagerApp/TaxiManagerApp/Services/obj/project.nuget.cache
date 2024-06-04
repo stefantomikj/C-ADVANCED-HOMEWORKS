@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "frdXV0RhA8CjbZ7KFMcBZKRQw6DiERVSy16oK7z3AOPbcT1hBPNFQ/h7HOElbjPWYt7X96vt6tdC4ulB4rxhbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stefan\\Desktop\\mkwd12-net-06-csharpadv\\g3\\Workshop 3\\TaxiManagerApp\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
